@@ -23,9 +23,9 @@ permission under section 7 of the GNU General Public License, version
 notice placed by the copyright holder of the file stating that the
 file is governed by GPLv3 along with this Exception.
 
-The purpose of this Exception is to allow you to delay the
-GPL-licensing of a derived work of the Work for a
-limited period of time.
+The purpose of this Exception is to allow you to delay, for a 
+limited period of time, the release under this license of works 
+based on the program (as otherwise required by GPL Section 7(c)).
 
 Grant of Additional Permission:
 
