@@ -27,7 +27,7 @@ The purpose of this Exception is to allow you to delay the
 GPL-licensing of a derived work of the Work for a
 limited period of time.
 
-Grant of Additional Permission:
+Text of Exception:
 
    When conveying a work based on the Program under sections 5 or 6 of
    GPLv3, you have permission to delay compliance with the requirements
