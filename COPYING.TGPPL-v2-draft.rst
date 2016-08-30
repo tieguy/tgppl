@@ -18,9 +18,9 @@ Everyone is permitted to copy and distribute verbatim copies of this
 license document, but changing it is not allowed.
 
 This Transitive Grace Period Exception ("Exception") is an additional
-permission under section 7 of the GNU General Public License, version
-3 ("GPLv3"). It applies to a given work (the "Work") that bears a
-notice placed by the copyright holder of the file stating that the
+permission as defined in section 7 of the GNU General Public License, 
+version 3 ("GPLv3"). It applies to a given work (the "Work") that bears 
+a notice placed by the copyright holder of the file stating that the 
 file is governed by GPLv3 along with this Exception.
 
 The purpose of this Exception is to allow you to delay the
