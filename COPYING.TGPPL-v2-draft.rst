@@ -30,11 +30,9 @@ limited period of time.
 Grant of Additional Permission:
 
    When conveying a work based on the Program under sections 5 or 6 of
-   GPLv3, you may delay compliance with the requirements
-   of those sections, including the requirement to license the entire
-   work as a whole under GPLv3 and the requirement to convey
-   Corresponding Source under GPLv3, for a period of up to 12 months
-   from the time of your conveying the work.
+   GPLv3, you may delay compliance with the requirements of those 
+   sections for a period of up to 12 months from the time of your 
+   conveying the work.
    
    This additional permission is granted on the condition that you grant 
    this same Exception to your downstream recipients when licensing 
