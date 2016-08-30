@@ -32,6 +32,6 @@ Grant of Additional Permission:
    or 6 of GPLv3, you may delay compliance with the conditions of those 
    sections for up to 12 months from the time you convey the work.
    
-   This Permission is granted on the condition that you grant this same 
-   Permission to your downstream recipients when complying with the 
-   conditions of sections 5 and 6 following the period of delay.
+   This Permission is granted on the condition that, when you comply with
+   the conditions of sections 5 and 6 following the period of delay, you 
+   grant this same Permission to anyone who comes into possession of a copy
