@@ -34,4 +34,5 @@ Grant of Additional Permission:
    
    This Permission is granted on the condition that, when you comply with
    the conditions of sections 5 and 6 following the period of delay, you 
-   grant this same Permission to anyone who comes into possession of a copy
+   grant this same Permission to anyone who comes into possession of a 
+   copy of the work based on the Program.
